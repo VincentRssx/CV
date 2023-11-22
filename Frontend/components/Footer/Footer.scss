@@ -1,0 +1,17 @@
+ul {
+	display: flex;
+	justify-content: space-evenly;
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+footer {
+	position: fixed;
+	background-color: steelblue;
+	bottom: 0;
+	width: 100%;
+}
